@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shop>
+  <create date="2021-08-04 14:48:42"/>
+  <company>Типография Вольф</company>
+  <url>https://wolf.ua</url>
+  <products>
+    <product id="P1SkTlSgSko">
+      <quantity>50</quantity>
+      <costB2C>49</costB2C>
+      <product_id>1</product_id>
+      <material_id>5</material_id>
+      <cover_id>1</cover_id>
+      <fb_id>1</fb_id>
+      <costB2B>19</costB2B>
+      <width>90</width>
+      <height>50</height>
+      <cover>Без покрытия</cover>
+      <material>Матовая 350 г</material>
+      <product>Визитки 90x50</product>
+      <imageURL>https://wolf.ua/img/prods/d3ca33b2000cd6bcde96106993b2b156.jpg</imageURL>
+    </product>
+    <product id="dWSqTESLFG7">
+      <quantity>50</quantity>
+      <costB2C>79</costB2C>
+      <product_id>1</product_id>
+      <material_id>5</material_id>
+      <cover_id>1</cover_id>
+      <fb_id>2</fb_id>
+      <costB2B>32</costB2B>
+      <width>90</width>
+      <height>50</height>
+      <cover>Без покрытия</cover>
+      <material>Матовая 350 г</material>
+      <product>Визитки 90x50</product>
+      <imageURL>https://wolf.ua/img/prods/d3ca33b2000cd6bcde96106993b2b156.jpg</imageURL>
+    </product>
+    <product id="82SgTnSESq8">
+      <quantity>75</quantity>
+      <costB2C>59</costB2C>
+      <product_id>1</product_id>
+      <material_id>5</material_id>
+      <cover_id>1</cover_id>
+      <fb_id>1</fb_id>
+      <costB2B>26</costB2B>
+      <width>90</width>
+      <height>50</height>
+      <cover>Без покрытия</cover>
+      <material>Матовая 350 г</material>
+      <product>Визитки 90x50</product>
+      <imageURL>https://wolf.ua/img/prods/d3ca33b2000cd6bcde96106993b2b156.jpg</imageURL>
+    </product>
+    <product id="82SgSESq8">
+      <quantity>75</quantity>
+      <costB2C>59</costB2C>
+      <product_id>1</product_id>
+      <material_id>5</material_id>
+      <cover_id>1</cover_id>
+      <fb_id>1</fb_id>
+      <costB2B>26</costB2B>
+      <width>90</width>
+      <height>50</height>
+      <cover>Без покрытия</cover>
+      <material>Матовая 350 г</material>
+      <product>Визитки 1000x50</product>
+      <imageURL>https://wolf.ua/img/prods/d3ca33b2000cd6bcde96106993b2b156.jpg</imageURL>
+    </product>
+    <product id="lBU1sKfESgA">
+      <quantity>1000</quantity>
+      <costB2C>679</costB2C>
+      <product_id>6</product_id>
+      <material_id>35</material_id>
+      <cover_id>4</cover_id>
+      <fb_id>1</fb_id>
+      <costB2B>425</costB2B>
+      <width>100</width>
+      <height>70</height>
+      <cover>Глянцевая ламинация с одной стороны 25 мкм</cover>
+      <material>Матовая 450 г</material>
+      <product>Календарик со скруглением углов</product>
+      <imageURL>https://wolf.ua/img/prods/bbd6694f18b549a6c8bcffeedf41d5ab.jpg</imageURL>
+    </product>
+    <product id="GKUDsZf1FM9">
+      <quantity>1000</quantity>
+      <costB2C>679</costB2C>
+      <product_id>6</product_id>
+      <material_id>35</material_id>
+      <cover_id>4</cover_id>
+      <fb_id>2</fb_id>
+      <costB2B>425</costB2B>
+      <width>100</width>
+      <height>70</height>
+      <cover>Глянцевая ламинация с одной стороны 25 мкм</cover>
+      <material>Матовая 450 г</material>
+      <product>Календарик со скруглением углов</product>
+      <imageURL>https://wolf.ua/img/prods/bbd6694f18b549a6c8bcffeedf41d5ab.jpg</imageURL>
+    </product>
+  </products>
+</shop>
